@@ -26,4 +26,4 @@ Halaman Nav Drawer
 
 Halaman Profile
 
-<img width="204" alt="Profile" src="https://user-images.githubusercontent.com/84964642/149965720-3bda331e-f4bd-47ba-8e24-39d874a42284.png">
+<img width="206" alt="Profile" src="https://user-images.githubusercontent.com/84964642/149969569-57066b83-7edd-4551-97a1-8bb691013b43.png">

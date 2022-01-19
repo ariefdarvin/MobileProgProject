@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "834143960508",
+    "project_id": "fruitlite-eb33c",
+    "storage_bucket": "fruitlite-eb33c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834143960508:android:a0cfda4fac631fb68affb9",
+        "android_client_info": {
+          "package_name": "com.example.projectmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834143960508-covtfobvatotttnkb2tglfoats2s1iqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projectmobile",
+            "certificate_hash": "6778b19081fe29d778533a763ea5f0a857cc1224"
+          }
+        },
+        {
+          "client_id": "834143960508-54shmvhot26c2m3fq7t00utstrbd6330.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAENQRjWbf9pUOA_FOLQ3fnYTA48G4IT6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834143960508-54shmvhot26c2m3fq7t00utstrbd6330.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

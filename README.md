@@ -18,7 +18,7 @@ Halaman Register
 
 Halaman Login
 
-<img width="207" alt="login" src="https://user-images.githubusercontent.com/84964642/149962754-35390049-622b-4848-bc61-54f40efcf2ce.png">
+<img width="206" alt="Login" src="https://user-images.githubusercontent.com/84964642/150111683-487b24ef-8468-46d3-9607-c8ce80ac409b.png">
 
 Halaman Home
 

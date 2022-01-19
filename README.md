@@ -1,4 +1,13 @@
 # MobileProgProject
+
+Nim - Nama 
+
+2301853615 - Arief Darvin
+
+2301847146 - Derian
+
+2301857115 - Darren Leone
+
 Pada project mobile programming ini, kami membuat aplikasi yang bernama FruitLite. FruitLite adalah sebuah aplikasi berbasis android yang bertujuan untuk membantu user untuk lebih mengetahui detail dari buah buahan.
 
 Berikut ini adalah dokumentasi dari aplikasi kami. 

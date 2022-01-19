@@ -32,11 +32,13 @@ Pada halaman fruit detail, user dapat melihat penjelasan detail mengenai buah te
 
 <img width="207" alt="Fruit Detail" src="https://user-images.githubusercontent.com/84964642/149967009-9c6dbba1-6508-4821-8605-aaa8d3a5db50.png">          <img width="206" alt="Fruit Detail2" src="https://user-images.githubusercontent.com/84964642/149967021-afa352d2-6930-4a22-aa99-a5cd355299f8.png">
 
-Halaman Scan About
+halaman scan about 
+halaman ini berisikan tentang penjelasan dari fitur scan qr code
 
 <img width="207" alt="Fruit Detail" src="https://user-images.githubusercontent.com/84964642/150163918-50e68e1d-3598-476a-b854-fb7f1774bad3.png"> 
 
-Halaman Scan
+halaman scan beserta fitur scan barcode
+dimana pada halaman ini terdapat sebuah tombol yang mengarahkan ke fitur scan barcode. Fitur scan barcode ini berfungsi untuk scan barcode yang tertera di buah
 
 <img width="207" alt="Fruit Detail" src="https://user-images.githubusercontent.com/84964642/150164046-6f2ebdcb-3b50-4523-8a6f-0577baed1f42.png">       <img width="207" alt="Fruit Detail" src="https://user-images.githubusercontent.com/84964642/150162753-82fbcee2-fb01-479f-b4c8-57c997a24c7e.jpg"> 
 
